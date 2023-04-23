@@ -5,9 +5,10 @@ The assistant will use a manual, that is enriched time over time.
 
 ## Install
 
-1. Start docker and run the vector indexer ```docker run -p 6333:6333 qdrant/qdrant```
-2. Write some asks in the main.py
-3. run ```python main.py```
+1. Create .env file and save OPENAI API KEY: "OPENAI_API_KEY = sk-XXXX"
+2. Start docker and run the vector indexer ```docker run -p 6333:6333 qdrant/qdrant```
+3. Write some asks in the main.py
+4. run ```python main.py```
 
 ## Readings 
 
