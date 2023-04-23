@@ -12,5 +12,6 @@ The assistant will use a manual, that is enriched time over time.
 
 ## Readings 
 
-Make thoughts chain: https://github.com/hwchase17/langchain/blob/master/docs/getting_started/getting_started.md
-Setup vectorebase as an agent tool: https://python.langchain.com/en/latest/modules/agents/agent_executors/examples/agent_vectorstore.html
+- Learn about vector indexer: https://qdrant.tech/documentation/  
+- Make thoughts chain: https://github.com/hwchase17/langchain/blob/master/docs/getting_started/getting_started.md  
+- Setup vectorebase as an agent tool: https://python.langchain.com/en/latest/modules/agents/agent_executors/examples/agent_vectorstore.html
