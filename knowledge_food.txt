@@ -1,0 +1,559 @@
+Main menu
+
+WikipediaThe Free Encyclopedia
+Search Wikipedia
+Create account
+Log in
+
+Personal tools
+Contents hide
+(Top)
+Organizational structure
+Location
+Toggle Location subsection
+Scope and funding
+Regulatory programs
+Toggle Regulatory programs subsection
+Science and research programs
+Data management
+History
+21st century reforms
+Toggle 21st century reforms subsection
+Criticism
+See also
+Notes
+References
+Further reading
+External links
+Food and Drug Administration
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+From Wikipedia, the free encyclopedia
+"FDA" redirects here. For other uses, see FDA (disambiguation).
+"USFDA" redirects here. Not to be confused with USDA.
+Food and Drug Administration
+Logo of the United States Food and Drug Administration.svg
+Agency overview
+Formed	June 30, 1906; 116 years ago[1]
+Preceding agencies	
+Food, Drug, and Insecticide Administration (July 1927 to July 1930)
+Bureau of Chemistry, USDA (July 1901 through July 1927)
+Division of Chemistry, USDA (established 1862)
+Jurisdiction	Federal government of the United States
+Headquarters	White Oak Campus
+10903 New Hampshire Avenue
+Silver Spring, Maryland 20993
+39°02′07″N 76°58′59″W
+Employees	18,000 (2022)[2]
+Annual budget	US$6.5 billion (2022)[2]
+Agency executives	
+Robert Califf, Commissioner
+Janet Woodcock, Principal Deputy Commissioner
+Parent agency	Department of Health and Human Services
+Child agencies	
+Center for Biologics Evaluation and Research
+Center for Devices and Radiological Health
+Center for Drug Evaluation and Research
+Center for Food Safety and Applied Nutrition
+Center for Tobacco Products
+Center for Veterinary Medicine
+National Center for Toxicological Research
+Office of Criminal Investigations
+Office of Regulatory Affairs
+Website	fda.gov
+The United States Food and Drug Administration (FDA or US FDA) is a federal agency of the Department of Health and Human Services. The FDA is responsible for protecting and promoting public health through the control and supervision of food safety, tobacco products, caffeine products, dietary supplements, prescription and over-the-counter pharmaceutical drugs (medications), vaccines, biopharmaceuticals, blood transfusions, medical devices, electromagnetic radiation emitting devices (ERED), cosmetics, animal foods & feed[3] and veterinary products.
+
+The FDA's primary focus is enforcement of the Federal Food, Drug, and Cosmetic Act (FD&C), but the agency also enforces other laws, notably Section 361 of the Public Health Service Act, as well as associated regulations. Much of this regulatory-enforcement work is not directly related to food or drugs, but involves such things as regulating lasers, cellular phones, and condoms, as well as control of disease in contexts varying from household pets to human sperm donated for use in assisted reproduction.
+
+The FDA is led by the Commissioner of Food and Drugs, appointed by the President with the advice and consent of the Senate. The Commissioner reports to the Secretary of Health and Human Services. Robert Califf is the current commissioner, as of 17 February 2022.[4]
+
+The FDA has its headquarters in unincorporated White Oak, Maryland.[5] The agency also has 223 field offices and 13 laboratories located throughout the 50 states, the United States Virgin Islands, and Puerto Rico.[6] In 2008, the FDA began to post employees to foreign countries, including China, India, Costa Rica, Chile, Belgium, and the United Kingdom.[7]
+
+
+FDA Building 31 houses the Office of the Commissioner and the Office of Regulatory Department of Health and Human Services.[8] The agency consists of fourteen Centers and Offices.[note 1]
+Organizational structure
+Department of Health and Human Services
+Food and Drug Administration
+Office of the Commissioner
+Office of Operations[9]
+Office of Equal Employment Opportunity
+Office of Human Resources
+Office of Finance, Budget and Acquisition
+Office of Information Management and Technology
+Office of Informatics & Technology Innovation
+Office of Information Management
+Office of Security Operations
+Office of Facilities Engineering and Mission Support Services
+Center for Biologics Evaluation and Research (CBER)
+Center for Devices and Radiological Health (CDRH)
+Center for Drug Evaluation and Research (CDER)
+Center for Food Safety and Applied Nutrition (CFSAN)
+Center for Tobacco Products (CTP)
+Center for Veterinary Medicine (CVM)
+Oncology Center of Excellence (OCE)
+Office of Regulatory Affairs
+Office of Clinical Policy and Programs
+Office of External Affairs
+Office of Food Policy and Response
+Office of Minority Health and Health Equity
+Office of Policy, Legislation, and International Affairs
+Office of the Chief Scientist
+Office of Women's Health
+National Center for Toxicological Research (NCTR)
+Location
+
+FDA Building 66 houses the Center for Devices and Radiological Health.
+Headquarters
+FDA headquarters facilities are currently located in Montgomery County and Prince George's County, Maryland.[10]
+
+White Oak Federal Research Center
+Since 1990, the FDA has had employees and facilities on 130 acres (53 hectares) of the White Oak Federal Research Center in the White Oak area of Silver Spring, Maryland.[5][11] In 2001, the General Services Administration (GSA) began new construction on the campus to consolidate the FDA's 25 existing operations in the Washington metropolitan area, its headquarters in Rockville, and several fragmented office buildings. The first building, the Life Sciences Laboratory, was dedicated and opened with 104 employees in December 2003. As of December 2018, the FDA campus has a population of 10,987 employees housed in approximately 3,800,000 square feet (350,000 square metres) of space, divided into ten office and four laboratory buildings. The campus houses the Office of the Commissioner (OC), the Office of Regulatory Affairs (ORA),  the Center for Drug Evaluation and Research (CDER), the Center for Devices and Radiological Health (CDRH), the Center for Biologics Evaluation and Research (CBER) and offices for the Center for Veterinary Medicine (CVM).[5]
+
+With the passing of the FDA Reauthorization Act of 2017, the FDA is projecting a 64% increase in employees to 18,000 over the next 15 years, and would like to add approximately 1,600,000 square feet (150,000 square metres) of office and special use space to their existing facilities. The National Capital Planning Commission approved a new master plan for this expansion in December 2018,[12] and construction is expected to be completed by 2035, dependent on GSA appropriations.[13]
+
+Field locations
+
+The Arkansas Laboratory in Jefferson, Arkansas is the headquarters of the National Center for Toxicological Research.
+Office of Regulatory Affairs
+The Office of Regulatory Affairs is considered the agency's "eyes and ears," conducting the vast majority of the FDA's work in the field. Its employees, known as Consumer Safety Officers, or more commonly known simply as investigators, inspect production and warehousing facilities, investigate complaints, illnesses, or outbreaks, and review documentation in the case of medical devices, drugs, biological products, and other items where it may be difficult to conduct a physical examination or take a physical sample of the product. The Office of Regulatory Affairs is divided into five regions, which are further divided into 20 districts. Districts are based roughly on the geographic divisions of the Federal court system. Each district comprises a main district office and a number of Resident Posts, which are FDA remote offices that serve a particular geographic area. ORA also includes the Agency's network of regulatory laboratories, which analyze any physical samples taken. Though samples are usually food-related, some laboratories are equipped to analyze drugs, cosmetics, and radiation-emitting devices.
+
+Office of Criminal Investigations
+
+Jamaica, Queens, New York Regional Office - USFDA
+The Office of Criminal Investigations was established in 1991 to investigate criminal cases. To do so, OCI employs approximately 200 Special Agents nationwide who, unlike ORA Investigators, are armed, have badges, and do not focus on technical aspects of the regulated industries. Rather, OCI agents pursue and develop cases when individuals and companies commit criminal actions, such as fraudulent claims or knowingly and willfully shipping known adulterated goods in interstate commerce. In many cases, OCI pursues cases involving violations of Title 18 of the United States Code (e.g., conspiracy, false statements, wire fraud, mail fraud), in addition to prohibited acts as defined in Chapter III of the FD&C Act. OCI Special Agents often come from other criminal investigations backgrounds, and frequently work closely with the Federal Bureau of Investigation, Assistant Attorney General, and even Interpol. OCI receives cases from a variety of sources—including ORA, local agencies, and the FBI, and works with ORA Investigators to help develop the technical and science-based aspects of a case.[14]
+
+Other locations
+The FDA has a number of field offices across the United States, in addition to international locations in China, India, Europe, the Middle East, and Latin America.[15]
+
+Scope and funding
+As of 2021, the FDA had responsibility for overseeing $2.7 trillion in food, medical, and tobacco products.[16] Some 54% of its budget derives from the federal government, and 46% is covered by industry user fees for FDA services.[16] For example, pharmaceutical firms pay fees to expedite drug reviews.[16]
+
+According to Forbes, the pharmaceutical firms provide 75% of the FDA's drug review budget[17]
+
+Regulatory programs
+Emergency approvals (EUA)
+Emergency Use Authorization (EUA) is a mechanism that was created to facilitate the availability and use of medical countermeasures, including vaccines and personal protective equipment, during public health emergencies such as the Zika virus epidemic, the Ebola virus epidemic and the COVID-19 pandemic.[18]
+
+Regulations
+The programs for safety regulation vary widely by the type of product, its potential risks, and the regulatory powers granted to the agency. For example, the FDA regulates almost every facet of prescription drugs, including testing, manufacturing, labeling, advertising, marketing, efficacy, and safety—yet FDA regulation of cosmetics focuses primarily on labeling and safety. The FDA regulates most products with a set of published standards enforced by a modest number of facility inspections. Inspection observations are documented on Form 483.[19]
+
+In June 2018, the FDA released a statement regarding new guidelines to help food and drug manufacturers "implement protections against potential attacks on the U.S. food supply".[20] One of the guidelines includes the Intentional Adulteration (IA) rule, which requires strategies and procedures by the food industry to reduce the risk of compromise in facilities and processes that are significantly vulnerable.[21][22]
+
+The FDA also uses tactics of regulatory shaming,[23] mainly through online publication of non-compliance, warning letters, and "shaming lists." Regulation by shaming harnesses firms' sensitivity to reputational damage. For example, in 2018, the agency published an online "black list," in which it named dozens of branded drug companies that are supposedly using unlawful or unethical means to attempt to impede competition from generic drug companies.[24]
+
+The FDA frequently works with other federal agencies, including the Department of Agriculture, the Drug Enforcement Administration, Customs and Border Protection, and the Consumer Product Safety Commission. They also often work with local and state government agencies in performing regulatory inspections and enforcement actions.[25]
+
+Food and dietary supplements
+Main article: Regulation of food and dietary supplements by the U.S. Food and Drug Administration
+The regulation of food and dietary supplements by the Food and Drug Administration is governed by various statutes enacted by the United States Congress and interpreted by the FDA. Pursuant to the Federal Food, Drug, and Cosmetic Act and accompanying legislation, the FDA has authority to oversee the quality of substances sold as food in the United States, and to monitor claims made in the labeling of both the composition and the health benefits of foods.
+
+The FDA subdivides substances that it regulates as food into various categories—including foods, food additives, added substances (man-made substances that are not intentionally introduced into food, but nevertheless end up in it), and dietary supplements. Dietary supplements or dietary ingredients include vitamins, minerals, herbs, amino acids, and. enzymes.[26] Specific standards the FDA exercises differ from one category to the next. Furthermore, legislation had granted the FDA a variety of means to address violations of standards for a given substance category.
+
+Under the Dietary Supplement Health and Education Act of 1994 (DSHEA), the FDA is responsible for ensuring that manufacturers and distributors of dietary supplements and dietary ingredients meet the current requirements. These manufacturers and distributors are not allowed to advertise their products in an adulterated way, and they are responsible for evaluating the safety and labeling of their product.[27]
+
+The FDA has a "Dietary Supplement Ingredient Advisory List" that includes ingredients that sometimes appear on dietary supplements but need further evaluation further.[28] An ingredient is added to this list when it is excluded from use in a dietary supplement, does not appear to be an approved food additive or recognized as safe, and/or is subjected to the requirement for pre-market notification without having a satisfied requirement.[29]
+
+"FDA-Approved" vs. "FDA-Accepted in Food Processing"
+The FDA does not approve applied coatings used in the food processing industry.[30] There is no review process to approve the composition of nonstick coatings; nor does the FDA inspect or test these materials. Through their governing of processes, however, the FDA does have a set of regulations that cover the formulation, manufacturing, and use of nonstick coatings. Hence, materials like Polytetrafluoroethylene (Teflon) are not, and cannot be, considered as FDA Approved, rather, they are "FDA Compliant" or "FDA Acceptable".
+
+Medical countermeasures (MCMs)
+Further information: Biosecurity, Bioterrorism, and Biosecurity in the United States
+Medical countermeasures (MCMs) are products such as biologics and pharmaceutical drugs that can protect from or treat the health effects of a chemical, biological, radiological, or nuclear (CBRN) attack. MCMs can also be used for prevention and diagnosis of symptoms associated with CBRN attacks or threats.[31] The FDA runs a program called the "FDA Medical Countermeasures Initiative" (MCMi), with programs funded by the federal government. It helps support "partner" agencies and organisations prepare for public health emergencies that could require MCMs.[31][32]
+
+Medications
+
+FDA Building 51 houses the Center for Drug Evaluation and Research.
+The Center for Drug Evaluation and Research uses different requirements for the three main drug product types: new drugs, generic drugs, and over-the-counter drugs. A drug is considered "new" if it is made by a different manufacturer, uses different excipients or inactive ingredients, is used for a different purpose, or undergoes any substantial change. The most rigorous requirements apply to new molecular entities: drugs that are not based on existing medications.[33]
+
+New medications
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed. (August 2019) (Learn how and when to remove this template message)
+New drugs receive extensive scrutiny before FDA approval in a process called a new drug application (NDA).[34] Under the Trump administration, the agency has worked to make the drug-approval process go faster.[35]: 10  Critics, however, argue that the FDA standards are not sufficiently rigorous, allowing unsafe or ineffective drugs to be approved.[36] New drugs are available only by prescription by default. A change to over-the-counter (OTC) status is a separate process, and the drug must be approved through an NDA first. A drug that is approved is said to be "safe and effective when used as directed".
+
+Very rare, limited exceptions to this multi-step process involving animal testing and controlled clinical trials can be granted out of compassionate use protocols. This was the case during the 2015 Ebola epidemic with the use, by prescription and authorization, of ZMapp and other experimental treatments, and for new drugs that can be used to treat debilitating and/or very rare conditions for which no existing remedies or drugs are satisfactory, or where there has not been an advance in a long period of time. The studies are progressively longer, gradually adding more individuals as they progress from stage I to stage III, normally over a period of years, and normally involve drug companies, the government and its laboratories, and often medical schools and hospitals and clinics. However, any exceptions to the aforementioned process are subject to strict review and scrutiny and conditions, and are only given if a substantial amount of research and at least some preliminary human testing has shown that they are believed to be somewhat safe and possibly effective. (See FDA Special Protocol Assessment about Phase III trials.)
+
+Advertising and promotion
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed. (August 2019) (Learn how and when to remove this template message)
+The FDA's Office of Prescription Drug Promotion reviews and regulates prescription drug advertising and promotion through surveillance activities and issuance of enforcement letters to pharmaceutical manufacturers. Advertising and promotion for over-the-counter drugs is regulated by the Federal Trade Commission. The FDA also empowers third-party enforcer-firms to engage in some regulatory oversight, e.g. the FDA expects pharmaceutical companies to make sure that third-party suppliers and labs abide by the agency's health and safety guidelines.[37]: 4 
+
+The drug advertising regulation[38] contains two broad requirements: (1) a company may advertise or promote a drug only for the specific indication or medical use for which it was approved by FDA. Also, an advertisement must contain a "fair balance" between the benefits and the risks (side effects) of a drug.
+
+The term off-label refers to the practice of prescribing a drug for a different purpose than what the FDA approved.[39]
+
+Post-market safety surveillance
+After NDA approval, the sponsor must then review and report to the FDA every single patient adverse drug experience it learns of. They must report unexpected serious and fatal adverse drug events within 15 days, and other events on a quarterly basis.[40] The FDA also receives directly adverse drug event reports through its MedWatch program.[41] These reports are called "spontaneous reports" because reporting by consumers and health professionals is voluntary.
+
+While this remains the primary tool of post-market safety surveillance, FDA requirements for post-marketing risk management are increasing. As a condition of approval, a sponsor may be required to conduct additional clinical trials, called Phase IV trials. In some cases, the FDA requires risk management plans called Risk Evaluation and Mitigation Strategies (REMS) for some drugs that require actions to be taken to ensure that the drug is used safely.[42][43] For example, thalidomide can cause birth defects, but has uses that outweigh the risks if men and women taking the drugs do not conceive a child; a REMS program for thalidomide mandates an auditable process to ensure that people taking the drug take action to avoid pregnancy; many opioid drugs have REMS programs to avoid addiction and diversion of drugs.[42] The drug isotretinoin has a REMS program called iPLEDGE.[44]
+
+Generic drugs
+Generic drugs are chemical and therapeutic equivalents of name-brand drugs, normally whose patents have expired.[45] Approved generic drugs should have the same dosage, safety, effectiveness, strength, stability, and quality, as well as route of administration. In general, they are less expensive than their name brand counterparts, are manufactured and marketed by rival companies and, in the 1990s, accounted for about a third of all prescriptions written in the United States.[45] For a pharmaceutical company to gain approval to produce a generic drug, the FDA requires scientific evidence that the generic drug is interchangeable with or therapeutically equivalent to the originally approved drug.[46] This is called an Abbreviated New Drug Application (ANDA).[47] As of 2012, 80% of all FDA approved drugs are available in generic form.[citation needed]
+
+Generic drug scandal
+In 1989, a major scandal erupted involving the procedures used by the FDA to approve generic drugs for sale to the public.[45] Charges of corruption in generic drug approval first emerged in 1988 during the course of an extensive congressional investigation into the FDA. The oversight subcommittee of the United States House Energy and Commerce Committee resulted from a complaint brought against the FDA by Mylan Laboratories Inc. of Pittsburgh. When its application to manufacture generics were subjected to repeated delays by the FDA, Mylan, convinced that it was being discriminated against, soon began its own private investigation of the agency in 1987. Mylan eventually filed suit against two former FDA employees and four drug-manufacturing companies, charging that corruption within the federal agency resulted in racketeering and in violations of antitrust law. "The order in which new generic drugs were approved was set by the FDA employees even before drug manufacturers submitted applications" and, according to Mylan, this illegal procedure was followed to give preferential treatment to certain companies. During the summer of 1989, three FDA officials (Charles Y. Chang, David J. Brancato, Walter Kletch) pleaded guilty to criminal charges of accepting bribes from generic drugs makers, and two companies (Par Pharmaceutical and its subsidiary Quad Pharmaceuticals)[48] pleaded guilty to giving bribes.
+
+Furthermore, it was discovered that several manufacturers had falsified data submitted in seeking FDA authorization to market certain generic drugs. Vitarine Pharmaceuticals of New York, which sought approval of a generic version of the drug Dyazide, a medication for high blood pressure, submitted Dyazide, rather than its generic version, for the FDA tests. In April 1989, the FDA investigated 11 manufacturers for irregularities; and later brought that number up to 13. Dozens of drugs were eventually suspended or recalled by manufacturers. In the early 1990s, the U.S. Securities and Exchange Commission filed securities fraud charges against the Bolar Pharmaceutical Company, a major generic manufacturer based in Long Island, New York.[45]
+
+Over-the-counter drugs
+Over-the-counter (OTC) are drugs like aspirin that do not require a doctor's prescription.[49] The FDA has a list of approximately 800 such approved ingredients that are combined in various ways to create more than 100,000 OTC drug products. Many OTC drug ingredients had been previously approved prescription drugs now deemed safe enough for use without a medical practitioner's supervision like ibuprofen.[50]
+
+Ebola treatment
+In 2014, the FDA added an Ebola treatment being developed by Canadian pharmaceutical company Tekmira to the Fast Track program, but halted the phase 1 trials in July pending the receipt of more information about how the drug works. This was widely viewed as increasingly important in the face of a major outbreak of the disease in West Africa that began in late March 2014 and ended in June 2016.[51]
+
+Coronavirus (COVID-19) testing
+Main article: COVID-19 testing
+During the coronavirus pandemic, FDA granted emergency use authorization for personal protective equipment (PPE), in vitro diagnostic equipment, ventilators and other medical devices.[52][53][54]
+
+On March 18, 2020, FDA inspectors postponed most foreign facility inspections and all domestic routine surveillance facility inspections.[55] In contrast, the USDA's Food Safety and Inspection Service (FSIS) continued inspections of meatpacking plants, which resulted in 145 FSIS field employees who tested positive for COVID-19, and three who died.[56]
+
+Vaccines, blood and tissue products, and biotechnology
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed. (August 2019) (Learn how and when to remove this template message)
+
+FDA scientist prepares blood donation samples for testing.
+The Center for Biologics Evaluation and Research is the branch of the FDA responsible for ensuring the safety and efficacy of biological therapeutic agents.[57] These include blood and blood products, vaccines, allergenics, cell and tissue-based products, and gene therapy products. New biologics are required to go through a premarket approval process called a Biologics License Application (BLA), similar to that for drugs.
+
+The original authority for government regulation of biological products was established by the 1902 Biologics Control Act, with additional authority established by the 1944 Public Health Service Act. Along with these Acts, the Federal Food, Drug, and Cosmetic Act applies to all biologic products, as well. Originally, the entity responsible for regulation of biological products resided under the National Institutes of Health; this authority was transferred to the FDA in 1972.
+
+Medical and radiation-emitting devices
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed. (August 2019) (Learn how and when to remove this template message)
+
+FDA Building 62 houses the Center for Devices and Radiological Health.
+The Center for Devices and Radiological Health (CDRH) is the branch of the FDA responsible for the premarket approval of all medical devices, as well as overseeing the manufacturing, performance and safety of these devices.[58] The definition of a medical device is given in the FD&C Act, and it includes products from the simple toothbrush to complex devices such as implantable neurostimulators. CDRH also oversees the safety performance of non-medical devices that emit certain types of electromagnetic radiation. Examples of CDRH-regulated devices include cellular phones, airport baggage screening equipment, television receivers, microwave ovens, tanning booths, and laser products.
+
+CDRH regulatory powers include the authority to require certain technical reports from the manufacturers or importers of regulated products, to require that radiation-emitting products meet mandatory safety performance standards, to declare regulated products defective, and to order the recall of defective or noncompliant products. CDRH also conducts limited amounts of direct product testing.
+
+"FDA-Cleared" vs "FDA-Approved"
+Clearance requests are required for medical devices that prove they are "substantially equivalent" to the predicate devices already on the market. Approved requests are for items that are new or substantially different and need to demonstrate "safety and efficacy", for example they may be inspected for safety in case of new toxic hazards. Both aspects need to be proved or provided by the submitter to ensure proper procedures are followed.[59]
+
+Cosmetics
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed. (August 2019) (Learn how and when to remove this template message)
+Cosmetics are regulated by the Center for Food Safety and Applied Nutrition, the same branch of the FDA that regulates food. Cosmetic products are not, in general, subject to premarket approval by the FDA unless they make "structure or function claims" that make them into drugs (see Cosmeceutical). However, all color additives must be specifically FDA approved before manufacturers can include them in cosmetic products sold in the U.S. The FDA regulates cosmetics labeling, and cosmetics that have not been safety tested must bear a warning to that effect.[60]
+
+According to the industry advocacy group the American Council on Science and Health, though the cosmetic industry is predominantly responsible in ensuring the safety of its products, the FDA also has the power to intervene when necessary to protect the public but in general does not require pre-market approval or testing. The ACSH says that companies are required to place a warning note on their products if they have not been tested and that experts in cosmetic ingredient reviews also play a role in monitoring safety through influence on the use of ingredients, but also lack legal authority. According to the ACSH, overall the organization has reviewed about 1,200 ingredients and has suggested that several hundred be restricted, but there is no standard or systemic method for reviewing chemicals for safety and a clear definition of what is meant by 'safety' so that all chemicals are tested on the same basis.[61]
+
+Veterinary products
+The Center for Veterinary Medicine (CVM) is a center of the FDA that regulates food additives and drugs that are given to animals.[62] CVM regulates animal drugs, animal food including pet animal, and animal medical devices. The FDA's requirements to prevent the spread of bovine spongiform encephalopathy are also administered by CVM through inspections of feed manufacturers.[63] CVM does not regulate vaccines for animals; these are handled by the United States Department of Agriculture.[64]
+
+Tobacco products
+The FDA regulates tobacco products with authority established by the 2009 Family Smoking Prevention and Tobacco Control Act.[65] This Act requires color warnings on cigarette packages and printed advertising, and text warnings from the U.S. Surgeon General.[66]
+
+The nine new graphic warning labels were announced by the FDA in June 2011 and were scheduled to be required to appear on packaging by September 2012. The implementation date is uncertain, due to ongoing proceedings in the case of R.J. Reynolds Tobacco Co. v. U.S. Food and Drug Administration.[67] R.J. Reynolds, Lorillard, Commonwealth Brands, Liggett Group and Santa Fe Natural Tobacco Company have filed suit in Washington, D.C. federal court claiming that the graphic labels are an unconstitutional way of forcing tobacco companies to engage in anti-smoking advocacy on the government's behalf.[68]
+
+A First Amendment lawyer, Floyd Abrams, is representing the tobacco companies in the case, contending requiring graphic warning labels on a lawful product cannot withstand constitutional scrutiny.[69] The Association of National Advertisers and the American Advertising Federation have also filed a brief in the suit, arguing that the labels infringe on commercial free speech and could lead to further government intrusion if left unchallenged.[70] In November 2011, Federal judge Richard Leon of the U.S. District Court for the District of Columbia temporarily halted the new labels, likely delaying the requirement that tobacco companies display the labels. The U.S. Supreme Court ultimately could decide the matter.[71]
+
+In July 2017, the FDA announced a plan that would reduce the current levels of nicotine permitted in tobacco cigarettes.[72]
+
+Regulation of living organisms
+With acceptance of premarket notification 510(k) k033391 in January 2004,[73] the FDA granted Dr. Ronald Sherman permission to produce and market medical maggots for use in humans or other animals as a prescription medical device.[74] Medical maggots represent the first living organism allowed by the Food and Drug Administration for production and marketing as a prescription medical device.[75]
+
+In June 2004, the FDA cleared Hirudo medicinalis (medicinal leeches) as the second living organism to be used as a medical device.[76]
+
+The FDA also requires milk to be pasteurized to remove bacteria.[77]
+
+International Cooperation
+In February 2011, President Barack Obama and Canadian Prime Minister Stephen Harper issued a "Declaration on a Shared Vision for Perimeter Security and Economic Competitiveness"[78][79] and announced the creation of the Canada-United States Regulatory Cooperation Council (RCC) "to increase regulatory transparency and coordination between the two countries."[80]
+
+Under the RCC mandate, the FDA and Health Canada undertook a "first of its kind" initiative by selecting "as its first area of alignment common cold indications for certain over-the-counter antihistamine ingredients (GC 2013-01-10)."[81]
+
+A more recent example of the FDA's international work is their 2018 cooperation with regulatory and law-enforcement agencies worldwide through Interpol as part of Operation Pangea XI.[82][83] The FDA targeted 465 websites that illegally sold potentially dangerous, unapproved versions of opioid, oncology, and antiviral prescription drugs to U.S. consumers. The agency focused on transaction laundering schemes in order to uncover the complex online drug network.[84]
+
+Science and research programs
+
+FDA lab at Building 64 in Silver Spring, Maryland
+The FDA carries out research and development activities to develop technology and standards that support its regulatory role, with the objective of resolving scientific and technical challenges before they become impediments. The FDA's research efforts include the areas of biologics, medical devices, drugs, women's health, toxicology, food safety and applied nutrition, and veterinary medicine.[85]
+
+Data management
+The FDA has collected a large amount of data through the decades. The OpenFDA project was created to enable easy access of the data for the public and was officially launched in June 2014.[86][87]
+
+History
+Main article: History of the Food and Drug Administration
+Up until the 20th century, there were few federal laws regulating the contents and sale of domestically produced food and pharmaceuticals, with one exception being the short-lived Vaccine Act of 1813.[88] The history of the FDA can be traced to the latter part of the 19th century and the Division of Chemistry of the U.S. Department of Agriculture,[89] which was itself derived from the Copyright and Patent Clause. Under Harvey Washington Wiley, appointed chief chemist in 1883, the Division began conducting research into the adulteration and misbranding of food and drugs on the American market.[89] Wiley's advocacy came at a time when the public had become aroused to hazards in the marketplace by muckraking journalists like Upton Sinclair, and became part of a general trend for increased federal regulations in matters pertinent to public safety during the Progressive Era.[90] The Biologics Control Act of 1902 was put in place after a diphtheria antitoxin derived from tetanus-contaminated serum caused the deaths of thirteen children in St. Louis, Missouri. The serum was originally collected from a horse named Jim who had contracted tetanus.[91]
+
+
+Harvey W. Wiley, chief advocate of the Food and Drug Act
+In June 1906, President Theodore Roosevelt signed into law the Pure Food and Drug Act of 1906, also known as the "Wiley Act" after its chief advocate.[90][89] The Act prohibited, under penalty of seizure of goods, the interstate transport of food that had been "adulterated".[89] The Act applied similar penalties to the interstate marketing of "adulterated" drugs, in which the "standard of strength, quality, or purity" of the active ingredient was not either stated clearly on the label or listed in the United States Pharmacopeia or the National Formulary.[92][89]
+
+The responsibility for examining food and drugs for such "adulteration" or "misbranding" was given to Wiley's USDA Bureau of Chemistry.[90] Wiley used these new regulatory powers to pursue an aggressive campaign against the manufacturers of foods with chemical additives, but the Chemistry Bureau's authority was soon checked by judicial decisions, which narrowly defined the bureau's powers and set high standards for proof of fraudulent intent.[90] In 1927, the Bureau of Chemistry's regulatory powers were reorganized under a new USDA body, the Food, Drug, and Insecticide Administration.[93] This name was shortened to the Food and Drug Administration (FDA) three years later.[94]
+
+By the 1930s, muckraking journalists, consumer protection organizations, and federal regulators began mounting a campaign for stronger regulatory authority by publicizing a list of injurious products that had been ruled permissible under the 1906 law, including radioactive beverages, the mascara Lash lure which caused blindness, and worthless "cures" for diabetes and tuberculosis.[89] The resulting proposed law was unable to get through the Congress of the United States for five years, but was rapidly enacted into law following the public outcry over the 1937 Elixir Sulfanilamide tragedy, in which over 100 people died after using a drug formulated with a toxic, untested solvent.[95]
+
+President Franklin Delano Roosevelt signed the Federal Food, Drug, and Cosmetic Act into law on June 24, 1938. The new law significantly increased federal regulatory authority over drugs by mandating a pre-market review of the safety of all new drugs, as well as banning false therapeutic claims in drug labeling without requiring that the FDA prove fraudulent intent.[89]
+
+Soon after passage of the 1938 Act, the FDA began to designate certain drugs as safe for use only under the supervision of a medical professional, and the category of "prescription-only" drugs was securely codified into law by the Durham-Humphrey Amendment in 1951. These developments confirmed extensive powers for the FDA to enforce post-marketing recalls of ineffective drugs.[90]
+
+
+Medical Officer Alexander Fleming, M. D., examines a portion of a 240-volume new drug application around the late 1980s. Applications grew considerably after the efficacy mandate under the 1962 Drug Amendments.
+Outside of the US, the drug thalidomide was marketed for the relief of general nausea and morning sickness, but caused birth defects and even the death of thousands of babies when taken during pregnancy.[96] American mothers were largely unaffected as Dr. Frances Oldham Kelsey of the FDA refused to authorize the medication for market. In 1962, the Kefauver-Harris Amendment to the FD&C Act was passed, which represented a "revolution" in FDA regulatory authority.[97] The most important change was the requirement that all new drug applications demonstrate "substantial evidence" of the drug's efficacy for a marketed indication, in addition to the existing requirement for pre-marketing demonstration of safety. This marked the start of the FDA approval process in its modern form.
+
+These reforms had the effect of increasing the time, and the difficulty, required to bring a drug to market.[98] One of the most important statutes in establishing the modern American pharmaceutical market was the 1984 Drug Price Competition and Patent Term Restoration Act, more commonly known as the "Hatch-Waxman Act" after its chief sponsors. The act extended the patent exclusivity terms of new drugs, and tied those extensions, in part, to the length of the FDA approval process for each individual drug. For generic manufacturers, the Act created a new approval mechanism, the Abbreviated New Drug Application (ANDA), in which the generic drug manufacturer need only demonstrate that their generic formulation has the same active ingredient, route of administration, dosage form, strength, and pharmacokinetic properties ("bioequivalence") as the corresponding brand-name drug. This Act has been credited with, in essence, creating the modern generic drug industry.[99]
+
+Concerns about the length of the drug approval process were brought to the fore early in the AIDS epidemic. In the mid- and late 1980s, ACT-UP and other HIV activist organizations accused the FDA of unnecessarily delaying the approval of medications to fight HIV and opportunistic infections.[100] Partly in response to these criticisms, the FDA issued new rules to expedite approval of drugs for life-threatening diseases, and expanded pre-approval access to drugs for patients with limited treatment options.[101] All of the initial drugs approved for the treatment of HIV/AIDS were approved through these accelerated approval mechanisms.[102] Frank Young, then commissioner of the FDA, was behind the Action Plan Phase II, established in August 1987 for quicker approval of AIDS medication.[103]
+
+In two instances, state governments have sought to legalize drugs that the FDA has not approved. Under the theory that federal law, passed pursuant to Constitutional authority, overrules conflicting state laws, federal authorities still claim the authority to seize, arrest, and prosecute for possession and sales of these substances,[citation needed] even in states where they are legal under state law. The first wave was the legalization by 27 states of laetrile in the late 1970s. This drug was used as a treatment for cancer, but scientific studies both before and after this legislative trend found it to be ineffective.[104][105] The second wave concerned medical marijuana in the 1990s and 2000s. Though Virginia passed legislation allowing doctors to recommend cannabis for glaucoma or the side effects of chemotherapy, a more widespread trend began in California with the Compassionate Use Act of 1996.
+
+When the FDA requested Endo Pharmaceuticals on June 8, 2017, to remove oxymorphone hydrochloride from the market, it was the first such request in FDA history.[106]
+
+21st century reforms
+Critical Path Initiative
+The Critical Path Initiative[107] is the FDA's effort to stimulate and facilitate a national effort to modernize the sciences through which FDA-regulated products are developed, evaluated, and manufactured. The Initiative was launched in March 2004, with the release of a report entitled Innovation/Stagnation: Challenge and Opportunity on the Critical Path to New Medical Products.[108]
+
+Patients' rights to access unapproved drugs
+The Compassionate Investigational New Drug program was created after Randall v. U.S. ruled in favor of Robert C. Randall in 1978, creating a program for medical marijuana.[109]
+
+A 2006 court case, Abigail Alliance v. von Eschenbach, would have forced radical changes in FDA regulation of unapproved drugs. The Abigail Alliance argued that the FDA must license drugs for use by terminally ill patients with "desperate diagnoses," after they have completed Phase I testing.[110] The case won an initial appeal in May 2006, but that decision was reversed by a March 2007 rehearing. The US Supreme Court declined to hear the case, and the final decision denied the existence of a right to unapproved medications.
+
+Critics of the FDA's regulatory power argue that the FDA takes too long to approve drugs that might ease pain and human suffering faster if brought to market sooner. The AIDS crisis created some political efforts to streamline the approval process. However, these limited reforms were targeted for AIDS drugs, not for the broader market. This has led to the call for more robust and enduring reforms that would allow patients, under the care of their doctors, access to drugs that have passed the first round of clinical trials.[111][112]
+
+Post-marketing drug safety monitoring
+The widely publicized recall of Vioxx, a non-steroidal anti-inflammatory drug (NSAID) now estimated to have contributed to fatal heart attacks in thousands of Americans, played a strong role in driving a new wave of safety reforms at both the FDA rulemaking and statutory levels. Vioxx was approved by the FDA in 1999 and was initially hoped to be safer than previous NSAIDs, due to its reduced risk of intestinal tract bleeding. However, a number of pre- and post-marketing studies suggested that Vioxx might increase the risk of myocardial infarction, and this was conclusively demonstrated by results from the APPROVe trial in 2004.[113]
+
+Faced with numerous lawsuits, the manufacturer voluntarily withdrew it from the market. The example of Vioxx has been prominent in an ongoing debate over whether new drugs should be evaluated on the basis of their absolute safety, or their safety relative to existing treatments for a given condition. In the wake of the Vioxx recall, there were widespread calls by major newspapers, medical journals, consumer advocacy organizations, lawmakers, and FDA officials[114] for reforms in the FDA's procedures for pre- and post-market drug safety regulation.
+
+In 2006, a Congressional committee was appointed by the Institute of Medicine to review pharmaceutical safety regulation in the U.S. and to issue recommendations for improvements. The committee was composed of 16 experts, including leaders in clinical medicine medical research, economics, biostatistics, law, public policy, public health, and the allied health professions, as well as current and former executives from the pharmaceutical, hospital, and health insurance industries. The authors found major deficiencies in the current FDA system for ensuring the safety of drugs on the American market. Overall, the authors called for an increase in the regulatory powers, funding, and independence of the FDA.[115][116] Some of the committee's recommendations were incorporated into drafts of the PDUFA IV amendment, which was signed into law as the Food and Drug Administration Amendments Act of 2007.[117]
+
+As of 2011, Risk Minimization Action Plans (RiskMAPS) have been created to ensure risks of a drug never outweigh the benefits of that drug within the post-marketing period. This program requires that manufacturers design and implement periodic assessments of their programs' effectiveness. The Risk Minimization Action Plans are set in place depending on the overall level of risk a prescription drug is likely to pose to the public.[118]
+
+Pediatric drug testing
+Prior to the 1990s, only 20% of all drugs prescribed for children in the United States were tested for safety or efficacy in a pediatric population.[119] This became a major concern of pediatricians as evidence accumulated that the physiological response of children to many drugs differed significantly from those drugs' effects on adults. Children react differently to the drugs because of many reasons, including size, weight, etc. There were several reasons that few medical trials were done with children. For many drugs, children represented such a small proportion of the potential market, that drug manufacturers did not see such testing as cost-effective.[120]
+
+Also, because children were thought to be ethically restricted in their ability to give informed consent, there were increased governmental and institutional hurdles to approval of these clinical trials, as well as greater concerns about legal liability. Thus, for decades, most medicines prescribed to children in the U.S. were done so in a non-FDA-approved, "off-label" manner, with dosages "extrapolated" from adult data through body weight and body-surface-area calculations.[120]
+
+An initial attempt by the FDA to address this issue was the 1994 FDA Final Rule on Pediatric Labeling and Extrapolation, which allowed manufacturers to add pediatric labeling information, but required drugs that had not been tested for pediatric safety and efficacy to bear a disclaimer to that effect. However, this rule failed to motivate many drug companies to conduct additional pediatric drug trials. In 1997, the FDA proposed a rule to require pediatric drug trials from the sponsors of New Drug Applications. However, this new rule was successfully preempted in federal court as exceeding the FDA's statutory authority.[120]
+
+While this debate was unfolding, Congress used the Food and Drug Administration Modernization Act of 1997 to pass incentives that gave pharmaceutical manufacturers a six-month patent term extension on new drugs submitted with pediatric trial data. The Best Pharmaceuticals for Children Act of 2007 reauthorized these provisions and allowed the FDA to request NIH-sponsored testing for pediatric drug testing, although these requests are subject to NIH funding constraints. In the Pediatric Research Equity Act of 2003, Congress codified the FDA's authority to mandate manufacturer-sponsored pediatric drug trials for certain drugs as a "last resort" if incentives and publicly funded mechanisms proved inadequate.[120]
+
+Priority review voucher (PRV)
+The priority review voucher is a provision of the Food and Drug Administration Amendments Act of 2007, which awards a transferable "priority review voucher" to any company that obtains approval for a treatment for a neglected tropical diseases. The system was first proposed by Duke University faculty David Ridley, Henry Grabowski, and Jeffrey Moe in their 2006 Health Affairs paper: "Developing Drugs for Developing Countries".[121] President Obama signed into law the Food and Drug Administration Safety and Innovation Act of 2012 which extended the authorization until 2017.[122]
+
+Rules for generic biologics
+Since the 1990s, many successful new drugs for the treatment of cancer, autoimmune diseases, and other conditions have been protein-based biotechnology drugs, regulated by the Center for Biologics Evaluation and Research. Many of these drugs are extremely expensive; for example, the anti-cancer drug Avastin costs $55,000 for a year of treatment,[123] while the enzyme replacement therapy drug Cerezyme costs $200,000 per year, and must be taken by Gaucher's disease patients for life.[124]
+
+Biotechnology drugs do not have the simple, readily verifiable chemical structures of conventional drugs, and are produced through complex, often proprietary, techniques, such as transgenic mammalian cell cultures. Because of these complexities, the 1984 Hatch-Waxman Act did not include biologics in the Abbreviated New Drug Application (ANDA) process. This precluded the possibility of generic drug competition for biotechnology drugs. In February 2007, identical bills were introduced into the House to create an ANDA process for the approval of generic biologics, but were not passed.[124]
+
+Mobile medical applications
+In 2013, a guidance was issued to regulate mobile medical applications and protect users from their unintended use. This guidance distinguishes the apps subjected to regulation based on the marketing claims of the apps.[125] Incorporation of the guidelines during the development phase of these apps has been proposed for expedited market entry and clearance.[126]
+
+Criticism
+Main article: Criticism of the Food and Drug Administration
+The FDA has regulatory oversight over a large array of products that affect the health and life of American citizens.[90] As a result, the FDA's powers and decisions are carefully monitored by several governmental and non-governmental organizations. A $1.8 million 2006 Institute of Medicine report on pharmaceutical regulation in the U.S. found major deficiencies in the current FDA system for ensuring the safety of drugs on the American market. Overall, the authors called for an increase in the regulatory powers, funding, and independence of the FDA.[127][128]
+
+A 2022 article from Politico raised concerns that food is not a high priority at the FDA. The report explains the FDA has structural and leadership problems in the food division and is often deferential to industry.[129] This might be attributed to lobbying and influence of big food companies in Washington, D.C.[130]
+
+During the COVID-19 pandemic, the FDA received criticism for punishing small distilleries that made hand sanitizers to help meet the unexpected demand. After receiving $14,000 fines from the FDA, some producers stated, "I wish we'd never done it. I will not put myself on this same chopping block again."[131]
+
+See also
+icon	Food portal
+flag	United States portal
+icon	Law portal
+icon	Medicine portal
+Adverse reaction
+Adverse event
+Adverse drug reaction
+Biosecurity
+Biosecurity in the United States
+Drug Efficacy Study Implementation
+Food and Drug Administration Modernization Act of 1997
+FDA Food Safety Modernization Act of 2011
+FDA Fast Track Development Program (for drugs)
+Food and Drug Administration Amendments Act of 2007 (e.g. drugs)
+Food and Drug Administration Safety and Innovation Act of 2012 (GAIN/QIDP etc.)
+Inverse benefit law
+Investigational Device Exemption (for use in clinical trials)
+Kefauver Harris Amendment 1962 – required "proof-of-efficacy" for drugs
+International:
+
+Food Administration
+International Conference on Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human Use (ICH)
+African Union: African Medicines Agency
+Australia: Therapeutic Goods Administration
+Brazil: National Health Surveillance Agency
+Canada: Marketed Health Products Directorate
+Canada: Health Canada
+Denmark: Danish Medicines Agency
+European Union: European Medicines Agency
+Germany: Federal Institute for Drugs and Medical Devices
+India: Food Safety and Standards Authority of India
+India: Central Drugs Standard Control Organization
+Japan: Ministry of Health, Labour and Welfare (MHLW)
+Japan: Pharmaceuticals and Medical Devices Agency
+Mexico: Federal Commission for the Protection against Sanitary Risk
+Philippines: Food and Drug Administration (FDA)
+Singapore: Health Sciences Authority
+United Kingdom: Medicines and Healthcare products Regulatory Agency
+United States: Food and Drug Administration
+Notes
+ The quoted text from the source indicates "9" but the actual count from the website indicates "14".
+References
+ "FDA Centennial 1906–2006". Food and Drug Administration. Archived from the original on May 24, 2016. Retrieved September 13, 2008.
+ "FY 2022 FDA Budget Request". FDA. Retrieved January 14, 2022.
+ "Animal Food & Feeds". Food and Drug Administration. Archived from the original on March 22, 2015. Retrieved March 14, 2015.
+ "Robert M. Califf M.D., MACC". fda.gov. February 17, 2022. Retrieved March 20, 2022.
+ "White Oak Campus Information". Food and Drug Administration. February 9, 2011. Archived from the original on April 21, 2016. Retrieved May 12, 2017.
+ "FDA Overview" (PDF). Food and Drug Administration. Archived (PDF) from the original on November 1, 2013. Retrieved August 30, 2012.
+ "FDA's International Posts: Improving the Safety of Imported Food and Medical Products". Food and Drug Administration. Archived from the original on August 10, 2010. Retrieved April 10, 2010.
+ "About the FDA Organization Charts". Food and Drug Administration. August 29, 2014. Archived from the original on July 22, 2015. Retrieved July 19, 2015. FDA is an agency within the Department of Health and Human Services and consists of nine Centers and Offices, which are listed on the menu to the left.
+ "Office of Operations Organization". Organization Charts. Food and Drug Administration. April 15, 2015. Archived from the original on July 22, 2015. Retrieved July 19, 2015.
+ "Buildings and Facilities". U.S. Food and Drug Administration. April 27, 2020. Archived from the original on April 21, 2020. Retrieved October 3, 2020.
+ Coordinates of FDA Headquarters at White Oak, Maryland: 39°02′07″N 76°58′59″W
+ "FDA White Oak Master Plan". National Capital Planning Commission. Archived from the original on October 9, 2020. Retrieved October 3, 2020.
+ "White Oak Campus Project Schedule". FDA. October 8, 2015. Archived from the original on April 23, 2019. Retrieved December 16, 2019.
+ Affairs, Office of Regulatory (October 7, 2021). "About OCI". FDA.
+ "Buildings and Facilities". FDA.gov. May 21, 2020. Archived from the original on April 21, 2020. Retrieved May 20, 2020.
+ "Fact Sheet: FDA at a Glance". US Food and Drug Administration. November 26, 2021. Retrieved February 21, 2022.
+ LaMattina, John (June 28, 2018). "The Biopharmaceutical Industry Provides 75% Of The FDA's Drug Review Budget. Is This A Problem?". Forbes. Archived from the original on January 2, 2023. Retrieved January 3, 2023.
+ Commissioner, Office of the (August 31, 2021). "Emergency Use Authorization--Archived Information". FDA.
+ "Inspection Observations". Fda.gov. November 21, 2022.
+ Gottlieb, Scott (June 19, 2018). "Statement from FDA Commissioner Scott Gottlieb, M.D., on new guidance to help manufacturers implement protections against potential attacks on the U.S. food supply" (Press release). Food and Drug Administration. Archived from the original on July 24, 2018. Retrieved June 20, 2018.
+ "Federal Register :: Request Access". unblock.federalregister.gov. Retrieved January 14, 2023.
+ Nutrition, Center for Food Safety and Applied (September 9, 2020). "Full Text of the Food Safety Modernization Act (FSMA)". FDA.
+ Yadin, Sharon (2019). "Regulatory Shaming". Environmental Law (Lewis & Clark). 49: 41. SSRN 3290017.
+ Yadin, Sharon (2019). "Shaming Big Pharma". Yale Journal on Regulation Bulletin. 36: 17. Archived from the original on May 18, 2019. Retrieved May 18, 2019.
+ "What does FDA regulate?". FDA. October 7, 2022.
+ Nutrition, Center for Food Safety and Applied (March 17, 2020). "Dietary Supplement Products & Ingredients". FDA. Archived from the original on May 28, 2020. Retrieved April 2, 2020.
+ Nutrition, Center for Food Safety and Applied (February 4, 2020). "Dietary Supplements". FDA. Archived from the original on April 3, 2020. Retrieved April 2, 2020.
+ "Dietary Supplement Ingredient Advisory List". U.S. Food & Drug Administration. Archived from the original on September 25, 2020. Retrieved May 10, 2020.
+ Nutrition, Center for Food Safety and Applied (December 20, 2019). "Dietary Supplement Ingredient Advisory List". FDA. Archived from the original on April 16, 2020. Retrieved April 2, 2020.
+ FDA Approved Coatings vs. FDA Acceptable Coatings – DECC Company – DECC Company Archived September 11, 2013, at the Wayback Machine. Decc.com. Retrieved on October 23, 2013.
+ "What are Medical Countermeasures?". FDA: Emergency Preparedness and Response. Food and Drug Administration. Archived from the original on April 22, 2019. Retrieved June 15, 2016.
+ "Alliance for Biosecurity applauds subcommittee efforts to sustain medical countermeasure funding". Homeland Preparedness News. Washington, D.C. June 8, 2016. Archived from the original on January 28, 2021. Retrieved June 15, 2016.
+ "Center for Drug Evaluation and Research | CDER". FDA. June 21, 2022. Retrieved January 14, 2023.
+ "New Drug Application (NDA)". Food and Drug Administration. Archived from the original on November 1, 2013. Retrieved November 20, 2012.
+ Van Loo, Rory (August 1, 2018). "Regulatory Monitors: Policing Firms in the Compliance Era". Faculty Scholarship. 119 (2): 369. Archived from the original on June 4, 2020. Retrieved October 10, 2020.
+ Stegenga, Jacob (2018), Medical Nihilism, Oxford University Press, ISBN 9780198747048, archived from the original on December 11, 2019, retrieved April 20, 2018
+ Van Loo, Rory (April 1, 2020). "The New Gatekeepers: Private Firms as Public Enforcers". Virginia Law Review. 106 (2): 467. Archived from the original on October 28, 2020. Retrieved October 25, 2020.
+ 21 CFR 202: Prescription Drug Advertising.
+ "Off-Label Drug Use in Cancer Treatment - NCI". www.cancer.gov. January 1, 2014. Retrieved January 14, 2023.
+ 21 CFR 314.80: Postmarketing Reporting of Adverse Drug Experiences
+ MedWatch: The FDA Safety Information and Adverse Event Reporting Program Archived April 22, 2019, at the Wayback Machine. Accessed October 9, 2007
+ Nelson, LS; Loh, M; Perrone, J (June 2014). "Assuring safety of inherently unsafe medications: the FDA risk evaluation and mitigation strategies". Journal of Medical Toxicology. 10 (2): 165–72. doi:10.1007/s13181-013-0374-z. PMC 4057549. PMID 24414251.
+ Brown, WV; Bramlet, DA; Ross, JL; Underberg, JA (October 14, 2016). "JCL roundtable: Risk evaluation and mitigation strategy". Journal of Clinical Lipidology. 10 (6): 1288–1296. doi:10.1016/j.jacl.2016.10.007. PMID 27919344.
+ Kovitwanichkanont, T; Driscoll, T (March 6, 2018). "A comparative review of the isotretinoin pregnancy risk management programs across four continents". International Journal of Dermatology. 57 (9): 1035–1046. doi:10.1111/ijd.13950. PMID 29508918. S2CID 3726217.
+ Cohen, Lynne (1990). "Government Policies and Programs – United States – Generic Drug Scandal". The New Book of Knowledge – Medicine And Health. pp. 276–281. ISBN 978-0-7172-8244-9.
+ "Therapeutic Equivalence of Generic Drugs". Food and Drug Administration. 1998. Archived from the original on April 29, 2012. Retrieved August 30, 2012.
+ "Abbreviated New Drug Application (ANDA)". U.S. Food & Drug Administration. December 20, 2019. Archived from the original on September 23, 2020. Retrieved May 10, 2020.
+ "F.D.A. Details Problems at Drug Makers". The New York Times. September 12, 1989. Archived from the original on March 13, 2017. Retrieved February 7, 2017.
+ Regulation of Nonprescription Drug Products Archived February 26, 2018, at the Wayback Machine FDA. Retrieved August 30, 2012.
+ "FDA CDER Handbook: Over-the-Counter Drug Products". Food and Drug Administration. Archived from the original on May 12, 2009. Retrieved October 9, 2007.
+ Kliff, Sarah (August 3, 2014). "The FDA recently halted trials on a potential Ebola treatment". Vox. Archived from the original on August 6, 2014. Retrieved August 4, 2014.
+ "Emergency Use Authorizations - FDA". FDA.gov. Food and Drug Administration. May 21, 2020. Archived from the original on May 17, 2020. Retrieved May 21, 2020.
+ Rizk JG, Forthal DN, Kalantar-Zadeh K, et al. Expanded Access Programs, compassionate drug use, and Emergency Use Authorizations during the COVID-19 pandemic [published online ahead of print, 2020 Nov 27]. Drug Discov Today. 2020;S1359-6446(20)30509-2. doi:10.1016/j.drudis.2020.11.025
+ "Comirnaty and Pfizer-BioNTech COVID-19 Vaccine". FDA. January 3, 2022.
+ Stephen M. Hahn M.D., Commissioner of Food and Drugs - Food and Drug Administration (March 18, 2020). "Coronavirus (COVID-19) Update: FDA Focuses on Safety of Regulated Products While Scaling Back Domestic Inspections". FDA.gov. U.S. Food and Drug Administration. Archived from the original on May 12, 2020. Retrieved May 21, 2020. Earlier this month, we announced that we are postponing most foreign facility inspections through April and that inspections outside the U.S. deemed mission-critical will be considered on a case-by-case basis as this outbreak continues to unfold. Today, we're announcing that for the health and well-being of our staff and those who conduct inspections for the agency under contract at the state level, and because of industry concerns about visitors, we have temporarily postponed all domestic routine surveillance facility inspections. These are facility inspections the FDA traditionally conducts every few years based on a risk analysis. Importantly, all domestic for-cause inspection assignments will be evaluated and will proceed if mission-critical. We will continue to respond to natural disasters, outbreaks and other public health emergencies involving FDA-regulated products.
+ Carney, Josh (May 5, 2020). "3 USDA meat inspectors dead, about 145 diagnosed with COVID-19". CBS News. Archived from the original on May 19, 2020. Retrieved May 22, 2020.
+ "About the Center for Biologics Evaluation and Research (CBER)". Food and Drug Administration. March 2, 2017. Archived from the original on May 9, 2017. Retrieved May 12, 2017..
+ CDRH Mission, Vision and Shared Values Archived April 22, 2019, at the Wayback Machine Retrieved August 30, 2012.
+ "What does it mean when FDA "clears" or "approves" a medical device?". Food and Drug Administration. Archived from the original on March 7, 2015. Retrieved March 14, 2015.
+ "Summary of Cosmetics Labeling Requirements". U.S. Food and Drug Administration. August 2, 2018. Archived from the original on December 13, 2019. Retrieved December 4, 2019.
+ Ross G (2006). "A perspective on the safety of cosmetic products: a position paper of the American Council on Science and Health". Int. J. Toxicol. 25 (4): 269–77. doi:10.1080/10915810600746049. PMID 16815815. S2CID 21904805.
+ Modric, S (September 2013). "Regulatory framework for the availability and use of animal drugs in the United States". The Veterinary Clinics of North America. Small Animal Practice. 43 (5): 1005–12. doi:10.1016/j.cvsm.2013.04.001. PMID 23890234.
+ Medicine, Center for Veterinary (April 11, 2019). "Bovine Spongiform Encephalopathy". FDA. Archived from the original on December 12, 2019. Retrieved February 4, 2020.
+ Hill, R.E., Jr.; Foley, P.L.; Clough, N.E.; Ludemann, L.R.; Murtle, D.C. (2013). "Translating research into licensed vaccines and validated and licensed diagnostic tests". In Roth, J.A.; Richt, J.A.; Morozov, I.A. (eds.). Vaccines and diagnostics for transboundary animal diseases : Ames, Iowa, 17-19 September 2012. Karger Medical and Scientific Publishers. pp. 53–54. ISBN 9783318023664. Archived from the original on August 1, 2020. Retrieved June 30, 2019.
+ "Does FDA have the authority to regulate tobacco products?". Food and Drug Administration. Archived from the original on November 14, 2017. Retrieved December 16, 2019.
+ "Cigarette Makers, FDA Clash Over New Graphic Ads". Fox News. September 22, 2011. Archived from the original on October 8, 2011. Retrieved October 13, 2011.
+ "Overview: Cigarette Health Warnings". Food and Drug Administration. Archived from the original on September 9, 2012. Retrieved August 30, 2012.
+ Koppel, Nathan (September 12, 2011). "FDA Defends New Graphic Cigarette Labels". The Wall Street Journal. Archived from the original on July 9, 2017. Retrieved August 4, 2017.
+ "Big Tobacco Gets Top First Amendment Lawyer for New Suit". AdWeek. Archived from the original on April 11, 2015. Retrieved March 14, 2015.
+ "Tobacco Cos. Get Allies in Warning Label Fight". Convenience Store News. Archived from the original on January 12, 2015. Retrieved March 14, 2015.
+ Esterl, Mike (November 8, 2011). "Judge Temporarily Blocks Graphic Cigarette Labels". The Wall Street Journal. Archived from the original on July 9, 2017. Retrieved August 3, 2017.
+ "FDA Announces Plan To Cut Level Of Nicotine Allowed In Cigarettes". NPR. Archived from the original on March 20, 2018. Retrieved April 4, 2018.
+ "510(k) Premarket Notification K033391". FDA. Retrieved July 4, 2021.
+ "FDA_K033391_ClearanceLetter" (PDF). FDA. Archived (PDF) from the original on July 1, 2015. Retrieved July 4, 2021.
+ Greer, Kathleen (2005). "Age-old therapy gets new approval". Advances in Skin & Wound Care. 18 (1): 12–15. doi:10.1097/00129334-200501000-00003. PMID 15716781.
+ "FDA approves leeches as medical devices". NBC News. Retrieved January 14, 2023.
+ "The Dangers of Raw Milk: Unpasteurized Milk Can Pose a Serious Health Risk". FDA. January 26, 2022.
+ "Joint Statement by President Obama and Prime Minister Harper of Canada on Regulatory Cooperation". whitehouse.gov (Press release). February 4, 2011. Archived from the original on January 22, 2017. Retrieved February 26, 2011 – via National Archives.
+ "PM and U.S. President Obama announce shared vision for perimeter security and economic competitiveness between Canada and the United States" (Press release). Prime Minister of Canada. February 4, 2011. Archived from the original on February 19, 2011. Retrieved February 26, 2011.
+ "United States-Canada Regulatory Cooperation Council (RCC) Joint Action Plan: Developing and implementing the Joint Action Plan" (Press release). Office of the Prime Minister of Canada. December 7, 2011. Archived from the original on July 29, 2013.
+ "Notice: Regulatory Cooperation Council (RCC) Over-the-Counter (OTC) Products: Common Monograph Working Group: Selection of a Monograph for Alignment". Canada's Action Plan. Government of Canada. January 10, 2013. Archived from the original on November 8, 2014. Retrieved February 15, 2013.
+ "N2018-123 / 2018 / News / News and media / Internet / Home - INTERPOL". Interpol.int. Archived from the original on February 9, 2019. Retrieved February 8, 2019.
+ Commissioner, Office of the. "Press Announcements - FDA launches global operation to crack down on websites selling illegal, potentially dangerous drugs; including opioids". Food and Drug Administration. Archived from the original on February 7, 2019. Retrieved February 8, 2019.
+ "Transaction laundering in 2019 – time to review the monitoring strategy". The Paypers. Archived from the original on July 14, 2020. Retrieved February 8, 2019.
+ "About Science & Research at FDA". Food and Drug Administration. June 18, 2009. Archived from the original on January 14, 2012. Retrieved November 25, 2011.
+ "openFDA". U.S. Food and Drug Administration. September 11, 2019. Archived from the original on October 21, 2020. Retrieved October 3, 2020.
+ "FDA opens new drug database to public; hiring site draws investor interest". Washington Post. June 7, 2014. Archived from the original on June 23, 2014.
+ Prevention, National Research Council (US) Division of Health Promotion and Disease (1985). Vaccines: Past, Present, and Future. National Academies Press (US).
+ Swann, John P. (Summer 2006). "How Chemists Pushed for Consumer Protection: The Food and Drugs Act of 1906". Chemical Heritage. 24 (2): 6–11.
+ "FDA History — Part I". Food and Drug Administration. Archived from the original on March 16, 2015. Retrieved March 14, 2015.
+ cirmweb (June 4, 2012). "The surprising journey from a horse named Jim to stem cell therapies at UC Davis". The Stem Cellar. Retrieved January 14, 2023.
+ Commissioner, Office of the. "Laws Enforced by FDA". Food and Drug Administration. Archived from the original on May 12, 2009. Retrieved December 16, 2019.
+ "History of FDA's Internal Organization". U.S. Food and Drug Administration. March 14, 2019. Retrieved October 3, 2020.
+ "Milestones in U.S. Food and Drug Law History". Food and Drug Administration. Archived from the original on May 21, 2009. Retrieved December 16, 2019.
+ Hamowy, Ronald (February 2010). "Medical Disasters and the Growth of FDA" (PDF). Independent Policy Reports: 7. Archived (PDF) from the original on October 10, 2011. Retrieved January 14, 2022.
+ Report of Congressman Morris Udall on thalidomide and the Kefauver hearings Archived July 29, 2010, at the Wayback Machine.
+ Temple, R (2002). "Policy developments in regulatory approval". Statistics in Medicine. 21 (19): 2939–2948. doi:10.1002/sim.1298. PMID 12325110. S2CID 24779317. Archived from the original on November 27, 2018. Retrieved June 19, 2019.
+ Frum, David (2000). How We Got Here: The '70s. New York, New York: Basic Books. p. 180. ISBN 978-0-465-04195-4.
+ Karki, L. (2005). "Review of FDA Law Related to Pharmaceuticals: The Hatch-Waxman Act, Regulatory Amendments and Implications for Drug Patent Enforcement". Journal of the Patent & Trademark Office Society. 87: 602–620.
+ "ACT UP/NY Chronology 1988". Archived from the original on February 2, 1998. Retrieved March 14, 2015.
+ "FDA Website: Expanded Access and Expedited Approval of New Therapies Related to HIV/AIDS". Food and Drug Administration. Archived from the original on November 1, 2013.
+ "FDA report on accelerated approval process". Food and Drug Administration. Archived from the original on May 25, 2009.
+ Richert, Lucas (2009). "Reagan, Regulation, and the FDA: The US Food and Drug Administration's Response to HIV/AIDS, 1980–90". Canadian Journal of History. 44 (3): 467–488. doi:10.3138/cjh.44.3.467.
+ "Medicinal Marijuana: A Patient-Driven Phenomenon". NPR.org. June 14, 2010. Archived from the original on March 17, 2015. Retrieved March 14, 2015.
+ "The Rise and Fall of Laetrile". Archived from the original on July 19, 2018. Retrieved March 14, 2015.
+ "FDA requests removal of Opana ER for risks related to abuse" (Press release). Food and Drug Administration. June 8, 2017. Archived from the original on November 4, 2017. Retrieved October 26, 2017. Today, the U.S. Food and Drug Administration requested that Endo Pharmaceuticals remove its opioid pain medication, reformulated Opana ER (oxymorphone hydrochloride), from the market... This is the first time the agency has taken steps to remove a currently marketed opioid pain medication from sale due to the public health consequences of abuse...[FDA Commissioner Scott Gottlieb, M.D.]: "We are facing an opioid epidemic – a public health crisis, and we must take all necessary steps to reduce the scope of opioid misuse and abuse.
+ Commissioner, Office of the (February 8, 2019). "Critical Path Initiative". Food and Drug Administration. Archived from the original on April 22, 2019. Retrieved December 16, 2019.
+ Innovation or Stagnation: Challenge and Opportunity on the Critical Path to New Medical Products Archived January 25, 2018, at Archive-It FDA. Retrieved August 30, 2012.
+ "The US Government Has Sent This Guy 300 Joints Each Month for 34 Years". September 9, 2016. Archived from the original on October 14, 2017. Retrieved October 14, 2017.
+ "Abigail Alliance Citizen Petition to FDA" (PDF). Archived from the original (PDF) on February 21, 2007. Retrieved March 11, 2007. (119 KB)
+ Madden, Bartley J. (July 2010). Free To Choose Medicine: How Faster Access to New Drugs Would Save Countless Lives and End Needless Suffering: Bartley J. Madden: 9781934791325: Amazon.com: Books. ISBN 978-1934791325.
+ Boldrin, Michele; Swamidass, S. Joshua (July 25, 2011). "A New Bargain for Drug Approvals". The Wall Street Journal. Archived from the original on July 9, 2017. Retrieved August 3, 2017.
+ Bresalier, RS (March 2005). "Cardiovascular events associated with rofecoxib in a colorectal adenoma chemoprevention trial". N. Engl. J. Med. 352 (11): 1092–102. doi:10.1056/NEJMoa050493. PMID 15713943. S2CID 8161299.
+ "David Graham's 2004 testimony to Congress" (PDF). Archived (PDF) from the original on September 25, 2012. Retrieved August 30, 2012. (28.3 KB) Retrieved August 30, 2012.
+ Henderson, Diedtra (September 23, 2006). "Panel: FDA needs more power, funds". The Boston Globe. Webcitation.org
+ Books.nap.edu Archived October 25, 2012, at the Wayback Machine Executive Summary of the 2006 IOM Report The Future of Drug Safety: Promoting and Protecting the Health of the Public
+ "Food and Drug Administration Amendments Act (FDAAA) of 2007". Food and Drug Administration. Archived from the original on May 25, 2009. Retrieved March 14, 2015.
+ Qato DM, Alexander GC (2011). "Post-Marketing Drug Safety and the Food and Drug Administration's Risk Evaluation and Mitigation Strategies". JAMA. 306 (14): 1595–1596. doi:10.1001/jama.2011.1457. PMID 21990303.
+ Temeck, Jean (November 2010). "Pediatric Product Development in the U.S.". FDA Seminar, Copenhagen.
+ Politis P (2005). "Transition From the Carrot to the Stick: The Evolution of Pharmaceutical Regulations Concerning Pediatric Drug Testing". Widener Law Review. 12: 271.
+ Ridley DB, Grabowski HG, Moe JL (2006). "Developing drugs for developing countries". Health Aff (Millwood). 25 (2): 313–24. doi:10.1377/hlthaff.25.2.313. PMID 16522573.
+ "Section 529 Rare Pediatric Disease Priority Review Voucher Incentive Program, Public Law 112-144" (PDF). Public Law. July 9, 2012. Archived (PDF) from the original on March 6, 2016. Retrieved November 19, 2015.
+ "The Avastin Paradox". MIT Technology Review. Retrieved January 6, 2022.
+ "To amend the Public Health Service Act to provide for the licensing of comparable and interchangeable biological products, and for other purposes. (2007; 110th Congress H.R. 1038) – GovTrack.us". GovTrack.us. Archived from the original on January 12, 2015. Retrieved March 14, 2015.
+ "Mobile Medical Applications". Food and Drug Administration. Archived from the original on September 4, 2015. Retrieved March 14, 2015.
+ Yetisen A. K.; Martinez-Hurtado J. L.; et al. (2014). "The regulation of mobile medical applications". Lab on a Chip. 14 (5): 833–840. doi:10.1039/C3LC51235E. PMID 24425070.
+ Henderson, Diedtra (September 23, 2006). Panel: FDA needs more power, funds. The Boston Globe. Webcitation.org
+ Committee on the Assessment of the US Drug Safety System. (2006). The Future of Drug Safety: Promoting and Protecting the Health of the Public. Institute of Medicine. Free full-text Archived July 2, 2010, at the Wayback Machine.
+ Bottemiller Evich, Helena. "How the FDA's food division fails to regulate health and safety hazards". politico.com. Politico. Retrieved April 4, 2022.
+ Doering, Christopher. "Where the dollars go: Lobbying a big business for large food and beverage CPGs". fooddive.com. Food Dive.
+ "FDA Can't Stop Harassing Distillers Who Made Hand Sanitizer During the Pandemic". August 8, 2022.
+Further reading
+Givel, Michael (December 2005). "Philip Morris' FDA Gambit: Good for Public Health?" Journal of Public Health Policy (26): pp. 450–468
+Henninger, Daniel (2002). "Drug Lag". In David R. Henderson (ed.). Concise Encyclopedia of Economics (1st ed.). Library of Economics and Liberty. OCLC 317650570, 50016270, 163149563
+Hilts, Philip J. (2003). Protecting America's Health: The FDA, Business, and One Hundred Years of Regulation. New York: Alfred E. Knopf. ISBN 0-375-40466-X
+Kevin Fain, Matthew Daubresse, G. Caleb Alexander (2013). "The Food and Drug Administration Amendments Act and Postmarketing Commitments." "JAMA" 310(2): 202–204 doi:10.1001/jama.2013.7900.
+Madden, Bartley (2010) Free To Choose Medicine: How Faster Access to New Drugs Would Save Countless Lives and End Needless Suffering Chicago: The Heartland Institute. ISBN 978-1-934791-32-5
+Moore, Thomas J. (1998). Prescription for Disaster: The Hidden Dangers in Your Medicine Cabinet. New York: Simon & Schuster. ISBN 0-684-82998-3
+Obenchain, Janel, and Arlene Spark. Food Policy: Looking Forward from the Past. CRC Press, 2015.
+Shah, Soleil, and Abdul El-Sayed, "Medical Algorithms Need Better Regulation: Many do not require FDA approval, and those that do often do not undergo clinical trials", Scientific American, vol. 326, no. 1 (January 2022), pp. 10–11. "Medical algorithms are less transparent, far more complex, more likely to reflect preexisting human bias, and more apt to evolve (and fail) over time than medical devices in the past." (p. 11.)
+External links
+
+Wikimedia Commons has media related to Food and Drug Administration (United States).
+
+Wikinews has news related to:
+Food and Drug Administration
+Official website Edit this at Wikidata
+Food and Drug Administration in the Federal Register
+Strategic Plan
+Works by Food and Drug Administration at Open Library Edit this at Wikidata
+Online books by United States Food and Drug Administration at The Online Books Page
+vte
+Food and Drug Administration of the United States
+vte
+United States Department of Health and Human Services
+vte
+United States Pharmaceutical industry in the United States
+vte
+Consumer food safety
+Authority control Edit this at Wikidata
+Categories: Food and Drug Administration1906 establishments in the United StatesAmerican medical researchGovernment agencies established in 1906Regulators of biotechnology products
+This page was last edited on 23 April 2023, at 00:03 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 3.0; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaMobile viewDevelopersStatisticsCookie statementWikimedia FoundationPowered by MediaWikiToggle limited content width
